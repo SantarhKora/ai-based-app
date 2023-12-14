@@ -1,11 +1,9 @@
-# ai-based-app
-AI generative app
-
+# ai-based-app                                                             ___      ᱡᱚᱦᱟᱨ     ___
+Nowa te prompt based jahalekanag web app benao ganog aa.
 
 To use the `structured_generator` function from your `helpers` module in another script, you need to ensure that the script has access to the `helpers` module and that the `structured_generator` function is imported correctly. Here's how you can do it:
 
-Assuming your directory structure is something like this:
-
+Nowa structure te file tahen ma.
 ```
 project/
 │
@@ -63,3 +61,5 @@ project/
    ```
 
 Make sure that your `helpers.py` and `your_script.py` are in the same directory or in a structure where Python can find them. If they are in different directories, you might need to adjust your Python path or use relative imports.
+
+ᱡᱚᱦᱟᱨ
